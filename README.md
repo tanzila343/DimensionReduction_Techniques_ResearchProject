@@ -30,6 +30,7 @@ Component Analysis (PCA), and Linear Discriminant Analysis (LDA).
 
 1. **Data Collection**: Gather a sufficient amount of Bengali text data from social media platforms, ensuring it is annotated with labels indicating instances of cyberbullying.
 2. **Preprocessing**: Preprocess the text data by removing punctuation, stopwords, digits, and applying stemming to reduce the dimensionality of the feature space.
+   
 3.**Experimental Result**: Scatter plot that visualize with and without dimension reduciton techniques.
 By following these steps and leveraging the mentioned technologies, we aimed to develop an effective study on Dimension Reduction Techniques
 ## References 
